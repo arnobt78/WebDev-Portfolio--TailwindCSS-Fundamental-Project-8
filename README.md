@@ -1,8 +1,10 @@
 ## WebDev Portfolio - TailwindCSS Fundamental Project 8
 
+<img width="1055" alt="Screenshot 2025-02-25 at 16 09 38" src="https://github.com/user-attachments/assets/285d8ead-1fd4-4db6-a062-18146946ced3" /><img width="1215" alt="Screenshot 2025-02-25 at 16 09 54" src="https://github.com/user-attachments/assets/dd7e6661-994a-441c-bdba-456ce42a52d6" /><img width="1111" alt="Screenshot 2025-02-25 at 16 10 15" src="https://github.com/user-attachments/assets/ab5a7be3-200a-4ec3-b428-f647463c0a38" /><img width="1232" alt="Screenshot 2025-02-25 at 16 10 47" src="https://github.com/user-attachments/assets/3461eef8-d4a3-4214-af37-b61323a09c69" />
+
 This is a portfolio project built using React and TailwindCSS. The project showcases various sections including a hero section, skills, about, and projects. It is designed to be responsive and visually appealing.
 
-**Online Live:**
+**Online Live:** https://webdev-portfolio-arnob.netlify.app/
 
 ## Setup Vite and Tailwind
 
